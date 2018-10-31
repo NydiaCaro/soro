@@ -26,7 +26,7 @@
     --------
 ## - Nombre Desarrollador: Nydia Caro P.
 ## - github: NydiaCaro
-## - Repositorio Examen: 
+## - Repositorio Examen: https://github.com/NydiaCaro/soro.git
 ## - e-mail: nydia_caro.p@gmail.com 
 
 
@@ -67,7 +67,7 @@
 ###  Textos con información real 
 ###  Galerías de fotos de actividades y conciertos de la escuela.
 ###  Galería de videos con conciertos de la escuela de música.
-###  Información sobre recurso personas que conforman esta academia.
+###  Información sobre recurso personas que conforman esta escuela de música.
 ###  Datos de contacto y formularios para preguntas, comentarios etc.
 ###  mapa de ubicacion de academia.
 ###  links que redireccionan a sitios de redes sociales y mail real de de la escuela de música.
